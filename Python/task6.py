@@ -6,7 +6,7 @@ def average(marks):
             break
     return avg(marks) if y else "Marks are invalid"
 def avg(marks):
-    return sum(marks)/len(marks))
+    return sum(marks)/len(marks)
 
 def grade(marks):
     if average(marks) >= 90:
