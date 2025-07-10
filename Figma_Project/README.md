@@ -17,7 +17,5 @@ You can view the original design on Figma:
 - Figma for UI/UX Design
 - HTML5
 - CSS3
-- VS Code / PyCharm for coding
-
-## 📌 Folder Structure
+- VS Code for coding
 
