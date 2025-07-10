@@ -12,7 +12,12 @@ class Student:
     def getname(self):
         return self.__name
     def getmarks(self):
-        return self.__marks if (marks>0 and marks<=100)else "Invalid marks are Entered"
+        if marks>0 and marks<100:
+            return self.__marks
+        else:
+            print("Invalid marks")
+            n=int(input("Enter the valid marks"))
+            return n
 #Driver code
 name,marks=input("Enter a name and marks ").split()
 marks=int(marks) #Converting marks from string to integer
