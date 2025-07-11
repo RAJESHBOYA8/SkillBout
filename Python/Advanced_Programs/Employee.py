@@ -30,6 +30,7 @@ e=Employee()
 e.setname(name)
 e.setsalary(salary)
 e.setage(age)
+
 print("Name: ",e.getname())
 print("Salary:",e.getsalary())
 print("age:",e.getage())
