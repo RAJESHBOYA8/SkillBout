@@ -1,7 +1,0 @@
-Hello! My name is Boya Rajesh.
-I'm passionate about learning new technologies and exploring new things.
-I enjoy traveling, cooking, reading, and listening to music.
-I'm currently building my skills in Python,Web Developement.
-I believe in consistent learning and staying curious.
-
-This is appended line
